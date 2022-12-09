@@ -7,9 +7,9 @@ About [Me](https://github.com/Yhfff)
 - 🔧Tools I often use:![decription](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-![GithubStats](https://github-readme-stats.vercel.app/api?username=YHFfff&show_icons=true&theme=dark&count_private=true)
+<!-- ![GithubStats](https://github-readme-stats.vercel.app/api?username=YHFfff&show_icons=true&theme=dark&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YHFfff&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YHFfff&theme=dark&layout=compact) -->
 
 <!--
 **Yhfff/Yhfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
